@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Modules",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "activeModule",
+        "value": "{}"
+      },
+      {
+        "name": "activeModuleContent",
+        "value": "{}"
+      },
+      {
+        "name": "markComplete",
+        "value": "null"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Modules_utils",
+  "deleted": false,
+  "gitSyncId": "665fe3b7d5c4c868fe5c6f67_cd46de73-6407-4c6a-9f82-091938a5077b"
+}

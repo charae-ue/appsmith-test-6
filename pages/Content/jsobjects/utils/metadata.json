@@ -1,0 +1,36 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Content",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "moduleContent",
+        "value": "{}"
+      },
+      {
+        "name": "addQuestion",
+        "value": "false"
+      },
+      {
+        "name": "showNewQuestion",
+        "value": "false"
+      },
+      {
+        "name": "newQuestionType",
+        "value": "''"
+      },
+      {
+        "name": "newQuizQuestions",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Content_utils",
+  "deleted": false,
+  "gitSyncId": "665fe3b7d5c4c868fe5c6f67_d1018948-5659-4563-a699-39d39b2f5771"
+}

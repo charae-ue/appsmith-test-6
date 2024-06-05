@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Courses",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "updatedSubjectName",
+        "value": "''"
+      },
+      {
+        "name": "subject",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Courses_utils",
+  "deleted": false,
+  "gitSyncId": "665fe3b7d5c4c868fe5c6f67_95e95fe5-f0bb-4c3f-9e17-3287bab9e2a5"
+}
